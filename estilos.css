@@ -1,5 +1,9 @@
 body{
-  background color:#EA899A;
-  font-family: Arial, Helvetica, sans-erif;
+  background color:pink;
+  font-family: Arial;
   text-align: center;
-}
+ }
+
+#fotos{
+    width: 75%;
+    height: auto;
