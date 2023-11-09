@@ -12,3 +12,9 @@ body{
 #info{
   margin-right: 150px;
 }
+aside{
+  background-color: lightblue;
+  color: pink;
+  float: right;
+
+}
